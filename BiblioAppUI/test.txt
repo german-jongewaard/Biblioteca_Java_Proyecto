@@ -1,0 +1,73 @@
+LIBRO,Dracula,Michael Jackon,EZ,ddddd
+CATEGORIA,Default
+CATEGORIA,Aventura
+CATEGORIA,Accion
+CATEGORIA,Infantil
+REVISTA,Deportes extremos,Naturaleza,Pascal,2014
+CATEGORIA,Default
+CATEGORIA,Aventura
+CATEGORIA,Accion
+LIBRO,El hobbit,Peter Jak,EZ,fffff
+CATEGORIA,Default
+CATEGORIA,Libros
+AUDIO,Caminando,Rock,10/11/2014,Perro Records,CD
+CATEGORIA,Default
+CATEGORIA,Musica
+AUDIO,Saltando,Blues,10/11/2010,Blues Records,CD
+CATEGORIA,Default
+CATEGORIA,Recitales
+PELICULA,Matrix,Triller,10/11/1993,Pixar,DVD
+CATEGORIA,Default
+CATEGORIA,Peliculas
+DATO,Mis Datos,Archivos Varios,10/11/1997,d,DVD
+CATEGORIA,Default
+CATEGORIA,Datos
+LIBRO,Uno y el Universo,Ernesto Sabato,Six Barral,ddddd
+CATEGORIA,Default
+CATEGORIA,Aventura
+CATEGORIA,Libros
+CATEGORIA,Prestado
+LIBRO,El escritor y sus fantasmas,Ernesto Sabato,Six Barral,ddddd
+CATEGORIA,Default
+CATEGORIA,Aventura
+CATEGORIA,Libros
+LIBRO,Informe sobre ciegos,Ernesto Sabato,Six Barral,ddddd
+CATEGORIA,Default
+CATEGORIA,Libros
+CATEGORIA,Prestado
+AUDIO,GABI PORAÍ - Eu e o verão,Bossa,10/11/2014,Brasil records,CD
+CATEGORIA,Default
+CATEGORIA,Musica
+AUDIO,Pat Metheny - Medley. Live at Lugano Jazz Festival (Switzerland),Jazz,28/08/2011,Jazz Switzerland,DVD
+CATEGORIA,Default
+CATEGORIA,Recitales
+PELICULA,Kamchatka,Pelicula,10/11/2002,Condor,DVD
+CATEGORIA,Default
+CATEGORIA,Peliculas
+CATEGORIA,Prestado
+PELICULA,Luna de Avellaneda,Pelicula,10/11/2005,Condor,DVD
+CATEGORIA,Default
+CATEGORIA,Peliculas
+PELICULA,La señal,Pelicula,10/11/2007,Condor,DVD
+CATEGORIA,Default
+CATEGORIA,Peliculas
+CATEGORIA,Prestado
+REVISTA,Delta,Aventura,EDICIONES DELTA,2014
+CATEGORIA,Default
+CATEGORIA,Aventura
+CATEGORIA,Accion
+REVISTA,Nippur de Lagash,Aventura,D'Artagnan,1967 y 1998
+CATEGORIA,Default
+CATEGORIA,Aventura
+CATEGORIA,Accion
+REVISTA,Fierro T1,Aventura,Ediciones la Urraca,1980
+CATEGORIA,Default
+CATEGORIA,Aventura
+CATEGORIA,Accion
+REVISTA,Zona 84 de Lagash,Aventura,Toutain Editor,1984-1992
+CATEGORIA,Default
+CATEGORIA,Aventura
+CATEGORIA,Accion
+PELICULA,El marido de la peluquera,Pelicula,10/11/1996,Fran,DVD
+CATEGORIA,Default 
+CATEGORIA,Peliculas
